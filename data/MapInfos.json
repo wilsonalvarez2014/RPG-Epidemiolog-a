@@ -32,7 +32,7 @@ null,
 {"id":30,"expanded":true,"name":"Auditorio Universidad","order":31,"parentId":0,"scrollX":487,"scrollY":470},
 {"id":31,"expanded":true,"name":"Camino al municipio","order":32,"parentId":30,"scrollX":487,"scrollY":478},
 null,
-{"id":33,"expanded":true,"name":"cabecera 2","order":33,"parentId":31,"scrollX":811,"scrollY":1000},
+{"id":33,"expanded":true,"name":"cabecera 2","order":33,"parentId":31,"scrollX":1081.3333333333333,"scrollY":802.6666666666666},
 null,
 null,
 {"id":36,"expanded":true,"name":"centro de salud","order":29,"parentId":14,"scrollX":487,"scrollY":497}
