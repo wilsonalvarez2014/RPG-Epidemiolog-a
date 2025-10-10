@@ -30,10 +30,10 @@ null,
 {"id":28,"expanded":true,"name":"Mazmorra artesanias escapa","order":21,"parentId":26,"scrollX":689,"scrollY":673},
 {"id":29,"expanded":true,"name":"Mazmorra artesanias final","order":22,"parentId":28,"scrollX":689,"scrollY":1053},
 {"id":30,"expanded":true,"name":"Auditorio Universidad","order":31,"parentId":0,"scrollX":1228.5,"scrollY":672},
-{"id":31,"expanded":true,"name":"Camino al municipio","order":32,"parentId":30,"scrollX":1101,"scrollY":440},
-{"id":32,"expanded":true,"name":"Ciudad forestal","order":34,"parentId":33,"scrollX":1786.909090909091,"scrollY":977.4545454545455},
+{"id":31,"expanded":true,"name":"Camino al municipio","order":32,"parentId":30,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":32,"expanded":true,"name":"Ciudad forestal","order":34,"parentId":33,"scrollX":1081.3333333333333,"scrollY":977.3333333333334},
 {"id":33,"expanded":true,"name":"Pueblo feo","order":33,"parentId":31,"scrollX":869,"scrollY":440},
 {"id":34,"expanded":false,"name":"Cabecera municipal Santa María","order":36,"parentId":0,"scrollX":1081.3333333333333,"scrollY":637.3333333333334},
-{"id":35,"expanded":false,"name":"Barrio bajo","order":35,"parentId":32,"scrollX":1769.4545454545455,"scrollY":1104},
-{"id":36,"expanded":true,"name":"centro de salud","order":29,"parentId":20,"scrollX":982.8,"scrollY":537.6}
+{"id":35,"expanded":false,"name":"Barrio bajo","order":35,"parentId":32,"scrollX":1081.3333333333333,"scrollY":1104},
+{"id":36,"expanded":true,"name":"centro de salud","order":29,"parentId":20,"scrollX":1092,"scrollY":637.3333333333334}
 ]
