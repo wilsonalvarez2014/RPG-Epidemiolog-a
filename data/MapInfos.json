@@ -33,7 +33,7 @@ null,
 {"id":31,"expanded":true,"name":"Camino al municipio","order":32,"parentId":30,"scrollX":861,"scrollY":440},
 {"id":32,"expanded":true,"name":"Ciudad forestal","order":34,"parentId":33,"scrollX":1081,"scrollY":977},
 {"id":33,"expanded":false,"name":"Pueblo feo","order":33,"parentId":31,"scrollX":853,"scrollY":440},
-{"id":34,"expanded":false,"name":"Cabecera municipal Santa María","order":36,"parentId":0,"scrollX":950.6666666666666,"scrollY":627.3333333333334},
+{"id":34,"expanded":false,"name":"Cabecera municipal Santa María","order":36,"parentId":0,"scrollX":1081.3333333333333,"scrollY":637.3333333333334},
 {"id":35,"expanded":false,"name":"Barrio bajo","order":35,"parentId":32,"scrollX":1081,"scrollY":1104},
 {"id":36,"expanded":true,"name":"centro de salud","order":29,"parentId":20,"scrollX":1092,"scrollY":637.3333333333334}
 ]
