@@ -36,7 +36,7 @@ null,
 {"id":34,"expanded":true,"name":"corregimiento la paz","order":36,"parentId":33,"scrollX":972,"scrollY":1508.6666666666667},
 {"id":35,"expanded":true,"name":"campamento minero","order":37,"parentId":34,"scrollX":708,"scrollY":1391.3333333333333},
 {"id":36,"expanded":true,"name":"centro de salud","order":29,"parentId":20,"scrollX":708,"scrollY":463.3333333333333},
-{"id":37,"expanded":true,"name":"mapa mundi mision vital","order":34,"parentId":31,"scrollX":708,"scrollY":490},
+{"id":37,"expanded":true,"name":"mapa mundi mision vital","order":34,"parentId":31,"scrollX":1092,"scrollY":637.3333333333334},
 {"id":38,"expanded":false,"name":"vereda el ocaso","order":38,"parentId":35,"scrollX":708,"scrollY":1508.6666666666667},
 {"id":39,"expanded":false,"name":"vereda la ezperanza","order":39,"parentId":38,"scrollX":708,"scrollY":864.6666666666666}
 ]
